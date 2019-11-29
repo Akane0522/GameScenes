@@ -6,6 +6,69 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Start.unity
+    guid: b73318dc13c8fe745992f15c4080e672
+  - enabled: 1
+    path: Assets/Scenes/MainMemu.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/InitScene.unity
+    guid: 3e553aa0f971d044ab01695712828cb6
+  - enabled: 1
+    path: Assets/Scenes/BattleScene/Story.unity
+    guid: 272fc049323b77249bbd2e17ec344f94
+  - enabled: 1
+    path: Assets/Scenes/BattleScene/StartBattle.unity
+    guid: 609b17dcebcb1564e80ea5a3631afe06
+  - enabled: 1
+    path: Assets/Scenes/BattleScene/WinBattle.unity
+    guid: 25207d15fee5ce644a9eb1735769ca2f
+  - enabled: 1
+    path: Assets/Scenes/BattleScene/LoseBattle.unity
+    guid: 70b2722e3e9afa145859d03f01c64f1c
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/StartTraning.unity
+    guid: 2705d995a78e8d949987e4545fcd0a48
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/SelectHW.unity
+    guid: 59334e1ac5fdba8449b7fc81923301f8
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1ToSelectHint.unity
+    guid: e82bebf9018f32749a1a096fc3316896
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toI.unity
+    guid: 19ce7270f0d4a234287a2e157e6aa3c7
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toRo.unity
+    guid: e8c56e4dbebfadc49bda9178b2af6fe5
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toHa.unity
+    guid: 53a77eb34a27e3442b63d55f54fd85ea
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toNi.unity
+    guid: 4347969a219ba914ab8b087e270eddff
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toHo.unity
+    guid: d16f22230c004e746ad1da4239a1f159
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toHe.unity
+    guid: 64aa2eb3ad3776744bf7a7dc2b788e2b
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toTo.unity
+    guid: 5371df38004943941ad0b0d7e931b60c
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toChi.unity
+    guid: 79cf230dc27633140bb79fa5b824bf9b
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toRi.unity
+    guid: 1383b32705f048b43b9531d1e6f34f50
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/HintScene/1toNu.unity
+    guid: 37710b6377b1d614ebf94a0a4e46a243
+  - enabled: 1
+    path: Assets/Scenes/TraningScene/EndTraning.unity
+    guid: 6e3f107f8a2361a40b635546420d3c19
   m_configObjects: {}
